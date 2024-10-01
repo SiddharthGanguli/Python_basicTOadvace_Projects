@@ -1,0 +1,9 @@
+☆☆   Description   ☆☆
+The Task Manager is a simple command-line application that helps users organize and manage their daily tasks efficiently. The program allows users to add, update, delete, and view tasks interactively. This project is designed to provide a user-friendly interface while demonstrating fundamental programming concepts in Python.
+
+☆☆   Features   ☆☆
+-->> Add Tasks: Users can input and store multiple tasks.
+-->> Update Tasks: Users can modify existing tasks.
+-->> Delete Tasks: Users can remove tasks they no longer need.
+-->> View Tasks: Users can see the list of current tasks.
+-->> Error Handling: The program includes error handling to ensure that invalid inputs do not crash the application, promoting a smoother user experience.
