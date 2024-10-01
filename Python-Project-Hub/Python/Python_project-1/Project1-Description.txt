@@ -1,1 +1,17 @@
+☆☆ Description  ☆☆
+This Python program simulates a simple restaurant ordering system. It allows users to view a menu, place orders for food items, and calculates the total bill. The program is interactive and handles user input to manage orders effectively.
 
+☆☆ Features  ☆☆
+->> Menu Display: The program starts by displaying a menu with various food items and their corresponding prices.
+->> Order Placement: Users can place an order by entering the name of the desired item. The program confirms the order and adds it to the total bill.
+->> Multiple Orders: After placing an initial order, users can choose to add more items or finish their order.
+->> Bill Calculation: At the end of the order, the program calculates and displays the total bill for the user.
+
+How It Works
+Menu Initialization: A dictionary named menu is created, containing various food items and their prices.
+☆☆   User Interaction:  ☆☆
+->> The user is greeted with a welcome message and the menu is displayed.
+->> The user is prompted to enter an item they wish to order.
+->> If the item is available in the menu, it is added to the order; otherwise, a message indicates the item is unavailable.
+->> Adding More Items: After the initial order, the user is asked if they would like to add more items. This continues until the user indicates they are done.
+->> Final Bill: Once the user completes their order, the program displays the total amount due.
