@@ -6,4 +6,5 @@ The Task Manager is a simple command-line application that helps users organize 
 -->> Update Tasks: Users can modify existing tasks.
 -->> Delete Tasks: Users can remove tasks they no longer need.
 -->> View Tasks: Users can see the list of current tasks.
--->> Error Handling: The program includes error handling to ensure that invalid inputs do not crash the application, promoting a smoother user experience.
+-->> Error Handling: The program includes error handling to ensure that invalid inputs do not crash the application, promoting a smoother user experience .
+ 
